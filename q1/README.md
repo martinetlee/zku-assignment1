@@ -1,0 +1,1 @@
+There’s an ambiguity on the problem statement, the input is named as “leaves”. So some people treated it as the initial leaves of the merkle tree (hashed) while some others treated it as data. I worked with the first assumption.
